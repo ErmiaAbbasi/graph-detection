@@ -1,7 +1,6 @@
 # Manual
 
 ---
-
 first you should create a 1080*1080 image with white background. then you draw the curve you want using a black pen. you can do all these using paint. the first release can just handle continuous functions (make sure for every x value there is a y value). save the image as 'test.png'. then run the img2data, It will make a data.mat file out of your graph. then run fitter.
 
 # properties of Fitter 
